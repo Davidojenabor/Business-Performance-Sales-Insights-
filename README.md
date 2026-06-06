@@ -63,4 +63,4 @@ The **Business Performance & Sales Insights Dashboard** delivers a clear, data-d
 
 ---
 
-![Dashboard review](
+![Dashboard review](Sales-data-Tablue.png)
