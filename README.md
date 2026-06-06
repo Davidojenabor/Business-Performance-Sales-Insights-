@@ -62,3 +62,5 @@ This project helped me strengthen:
 The **Business Performance & Sales Insights Dashboard** delivers a clear, data-driven view of company performance — helping identify top-performing products, track efficiency via CIR, and understand sales behavior across months, countries, and channels.
 
 ---
+
+![Dashboard review](
